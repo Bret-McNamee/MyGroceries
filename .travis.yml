@@ -1,11 +1,4 @@
 language: cpp
 os: linux
 script:
-<<<<<<< HEAD
-  - make clean
   - make
-
-=======
-    - make clean
-    - make
->>>>>>> 68b97d469ef79cb1a65668db34fa593aef251204
